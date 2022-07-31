@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "f93e9d09977b68e8a0ee9d9aa5161c25f0e77ba9d26b4c7dc87921eed898e39d"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
@@ -17,6 +21,15 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "889f67b783a74fcdbedd46de3bc40abf6f846816d8fbe1febf52fc4a2e52f9a3"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b99f8b297b9429f5185c84805d1a67f650bba836cf83c6c9d81b275261169672"
+metafile = true
+
+[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
 metafile = true
@@ -29,6 +42,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "ac2207cfc96eabeec2650f09d9ef72d2597fc7438edc9cbdaf5fbb2ba43bfde2"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "88724f93717dca5ba1a9ef5ac8a262ba10058a5685e4abf74d3330cbff9e82fc"
 metafile = true
 
 [[files]]
@@ -57,8 +75,18 @@ hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2bd6bb34cc34e9010c35d30ef21e71fa63386c6a7b2bbe16f7c1369db10c693f"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
 metafile = true
 
 [[files]]
@@ -92,13 +120,18 @@ hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "785912de8ab00947a26a1cc63b076a293b11800754d80d772cc59b31c3ff9b91"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
 
 [[files]]
