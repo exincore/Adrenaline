@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "afa708339e9e6045d4ab98fb9c85680c672e72d8e46e189a42f507b9829c9c4e"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
 metafile = true
 
 [[files]]
