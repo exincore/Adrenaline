@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "f93e9d09977b68e8a0ee9d9aa5161c25f0e77ba9d26b4c7dc87921eed898e39d"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
@@ -13,8 +17,17 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "889f67b783a74fcdbedd46de3bc40abf6f846816d8fbe1febf52fc4a2e52f9a3"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "93cbcab53ac3bafe7d8cbabe043a132af28b5e208383f52237e51a922e2c890e"
+metafile = true
+
+[[files]]
 file = "mods/bedrodium.pw.toml"
-hash = "bf93c5e4de2e8b6eaba6a41d7bd1fc9d11009fc5946698c86b0deec015a372db"
+hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
 metafile = true
 
 [[files]]
@@ -48,8 +61,18 @@ hash = "3d6b9e75d56542b27c55befcf73c56757fb6198cdb598a69b996e1981234983f"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "021474fcdf6097422186d06780e99da4afe1149a69e390e596d08fd8cc878139"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "3f216956fa906cfdfb32976d3a0b365d11c9c08294e50b0e413dfe6b96468bac"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
 metafile = true
 
 [[files]]
@@ -68,8 +91,8 @@ hash = "85a872e9757226eb2a15bea121651b8ffc3eeff3de0d22504bbdf0fa0c9ce3c8"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "8b1a5c51c823a6d15876c1f1701fd78b0b9e9275006db15e7f69ff46f73ecd12"
+file = "mods/simple-voice-chat.pw.toml"
+hash = "315e948af1e50ca8efdecfe5e5d3fab91f59cf9dc99ef3f825af6c861ffdedb4"
 metafile = true
 
 [[files]]
@@ -84,4 +107,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ee3866679cc972da85e7ea9e465363d37813a17862a24116507bdef8ac23c00f"
+hash = "ce3dfc320448ec0344d3b3b6dd5283464678fb194787911c7857c5ff8b748fd5"
