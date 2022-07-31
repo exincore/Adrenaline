@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin.json5"
+hash = "0e2ee76ff6646c40d60cbc1eaae7739fcd1057d035958f8366ac970fcf5c1d22"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
@@ -11,6 +15,11 @@ hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 [[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c378b022a7bdb3ca680bba80b140419cf451d0e137b0c588a91ff90e6d7ee208"
+metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
@@ -43,6 +52,11 @@ hash = "8ec7c0606e7e063233161bd7018aecf6bdd12207278c3585d56694961d69ef92"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ce4eee409ae02a02b3d6415a1b96a12d09fb94fa5f24fff33426c549245eca1c"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
@@ -50,11 +64,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "cfff77a6b3c6fd42810c9e2b10e5243258b4949f3935e9e0708f65aed580360c"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "9086bcb0c3ac5b8316e693875b130c4829999c956b585605b5aed1422b62a2c4"
 metafile = true
 
 [[files]]
@@ -69,4 +78,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ee3866679cc972da85e7ea9e465363d37813a17862a24116507bdef8ac23c00f"
+hash = "ce3dfc320448ec0344d3b3b6dd5283464678fb194787911c7857c5ff8b748fd5"
