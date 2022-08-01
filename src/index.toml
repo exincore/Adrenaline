@@ -106,6 +106,11 @@ hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
 metafile = true
