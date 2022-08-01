@@ -1,4 +1,4 @@
-Noradrenaline is a minimal modpack forked from [Adrenaline](https://intergrav.github.io/Adrenaline/) which contains a few minimal quality-of-life features. It is designed to stay nearly indistinguishable from vanilla.
+Noradrenaline is a minimal modpack forked from [Adrenaline](https://intergrav.github.io/Adrenaline/) with subtle quality-of-life features. It is designed to stay nearly indistinguishable from vanilla.
 
 ## ➕ Features
 ### 🏳️‍🌈 Quilt!
@@ -10,16 +10,16 @@ Noradrenaline uses the Quilt Modloader, whereas Adrenaline uses Fabric.
 Noradrenaline is built upon Adrenaline, a highly optimized modpack. Adrenaline claims "It can improve the framerate **up to ten times**!"
 
 ### 🧩 Few QOL Mods!
-Noradrenaline bundles
-* [Inspecio](https://modrinth.com/mod/inspecio)'s sensible tooltips
-* [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)'s world-responsive interface
-* [LampDynamicLights](https://modrinth.com/mod/lambdynamiclights)'s natural light
-* [AppleSkin](https://modrinth.com/mod/appleskin)'s subtle game-mechanic reveal
-to liven the player's presence.
+Noradrenaline bundles...
+* [Inspecio](https://modrinth.com/mod/inspecio)'s sensible tooltips,
+* [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)'s world-responsive interface,
+* [LampDynamicLights](https://modrinth.com/mod/lambdynamiclights)'s natural light, and
+* [AppleSkin](https://modrinth.com/mod/appleskin)'s subtle game-mechanic reveal  
+...to liven the player's presence.
 
-[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) is included and tucked away for when it is desired.
+[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) is tucked away for convenience.
 
-Noradrenaline includes configuration that maintains a low profile, cutting out more conspicuous mod features, and having the minimum amount of exposed options. It is designed to achieve the most Vanilla feel right from the start.
+Noradrenaline includes configuration that maintains a low profile that cuts out more conspicuous mod features and options. It is designed to achieve the most Vanilla feel right from the start.
 
 ### ⏩ Quick Updates!
 Noradrenaline will attempt to stay up to date with Adrenaline.
