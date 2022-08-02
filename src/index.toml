@@ -5,6 +5,10 @@ file = "config/appleskin.json5"
 hash = "f93e9d09977b68e8a0ee9d9aa5161c25f0e77ba9d26b4c7dc87921eed898e39d"
 
 [[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "fa43da84cf062915a853607a74e6746418924b9b4ed5a2b92eb6744f49c0b548"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
