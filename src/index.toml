@@ -25,6 +25,10 @@ file = "config/voicechat/voicechat-client.properties"
 hash = "889f67b783a74fcdbedd46de3bc40abf6f846816d8fbe1febf52fc4a2e52f9a3"
 
 [[files]]
+file = "icon.png"
+hash = "5ffef582fe0d54c1a970f80216b3173a3f43c38777a925627425f0252940c807"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
