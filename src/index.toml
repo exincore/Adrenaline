@@ -1,28 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/appleskin.json5"
+file = "config/yosbr/config/appleskin.json5"
 hash = "f93e9d09977b68e8a0ee9d9aa5161c25f0e77ba9d26b4c7dc87921eed898e39d"
 
 [[files]]
-file = "config/dynamiccrosshair.json5"
+file = "config/yosbr/config/dynamiccrosshair.json5"
 hash = "7451a58d95ca9a6aea0511244a96b4b026d309a5d726da84bccc5e6a0c363302"
 
 [[files]]
-file = "config/entityculling.json"
+file = "config/yosbr/config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 
 [[files]]
-file = "config/tr7zwDonorSettings.json"
+file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
-file = "config/voicechat/voicechat-client.properties"
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "889f67b783a74fcdbedd46de3bc40abf6f846816d8fbe1febf52fc4a2e52f9a3"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "ce3dfc320448ec0344d3b3b6dd5283464678fb194787911c7857c5ff8b748fd5"
 
 [[files]]
 file = "icon.png"
@@ -159,5 +163,6 @@ hash = "bfeba0ef83ca25c52d9c76421b57c6b53bba04aa17d7df0ab85bfacfd57efcd8"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "ce3dfc320448ec0344d3b3b6dd5283464678fb194787911c7857c5ff8b748fd5"
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
