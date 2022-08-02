@@ -14,7 +14,7 @@ hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
-hash = "5a9be431fae298d03c69d5bf9c159e5045e691651cbdd6209dbc54ad76fd6c9d"
+hash = "9b90d06a1bf4b990c9b4396448435f9729da53501c487865ede596e8307356c8"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"

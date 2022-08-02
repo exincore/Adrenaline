@@ -9,9 +9,9 @@
   "fastBlockPlacing": false,
   "flyDrifting": true,
   "verticalFlyDrifting": true,
-  "horizontalReacharound": true,
+  "horizontalReacharound": false,
   "verticalReacharound": false,
-  "shouldRenderReacharoundOutline": true,
+  "shouldRenderReacharoundOutline": false,
   "reacharoundOutlineColor": [
     255,
     255,
