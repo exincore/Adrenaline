@@ -14,11 +14,15 @@ hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
 file = "config/midnightcontrols.json"
-hash = "5a9be431fae298d03c69d5bf9c159e5045e691651cbdd6209dbc54ad76fd6c9d"
+hash = "9b90d06a1bf4b990c9b4396448435f9729da53501c487865ede596e8307356c8"
 
 [[files]]
 file = "config/midnightlib.json"
 hash = "82f95f1d6b1678ca43dec0f71359fc9be92663a61a1fdea3dec6e87400fd2546"
+
+[[files]]
+file = "config/reacharound.json"
+hash = "77ba19e508b6b41714ecf4f1bd46412d3f192110b7190b38c1a32318e758bc4f"
 
 [[files]]
 file = "config/sodium-options.json"
@@ -140,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "9566b6e7b46476e36873b4c032b9163d7198692cf4dcc2ba547820ce7c941000"
 metafile = true
 
 [[files]]
