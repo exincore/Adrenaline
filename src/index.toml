@@ -13,6 +13,14 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
+file = "config/midnightcontrols.json"
+hash = "5a9be431fae298d03c69d5bf9c159e5045e691651cbdd6209dbc54ad76fd6c9d"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "82f95f1d6b1678ca43dec0f71359fc9be92663a61a1fdea3dec6e87400fd2546"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 
@@ -107,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "9f4c42266f8231c6ed4e8b61363d5b9e84de8e86a21ab44272e31b1baaa68d1d"
 metafile = true
 
 [[files]]
