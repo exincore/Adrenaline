@@ -61,7 +61,7 @@
 			}
 		},
 		"holdingRangedWeapon": {
-			"style": "DiagonalCross",
+			"style": "Cross",
 			"color": {
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,

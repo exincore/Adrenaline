@@ -6,7 +6,7 @@ hash = "f93e9d09977b68e8a0ee9d9aa5161c25f0e77ba9d26b4c7dc87921eed898e39d"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
-hash = "fa43da84cf062915a853607a74e6746418924b9b4ed5a2b92eb6744f49c0b548"
+hash = "7451a58d95ca9a6aea0511244a96b4b026d309a5d726da84bccc5e6a0c363302"
 
 [[files]]
 file = "config/entityculling.json"
