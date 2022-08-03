@@ -30,11 +30,11 @@ hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
-hash = "889f67b783a74fcdbedd46de3bc40abf6f846816d8fbe1febf52fc4a2e52f9a3"
+hash = "53a31833e406bc4f6068fa900ce392d9131b8f9682f4d3ca1f3cd71875a15ee4"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ce3dfc320448ec0344d3b3b6dd5283464678fb194787911c7857c5ff8b748fd5"
+hash = "46191331843da31ebedcade306276a97361a58aa12474400ac4790f73f6256e9"
 
 [[files]]
 file = "icon.png"
@@ -43,6 +43,11 @@ hash = "5ffef582fe0d54c1a970f80216b3173a3f43c38777a925627425f0252940c807"
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
 metafile = true
 
 [[files]]
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "505eb4c112dc747ce878e9de79c911a5ef7f5a632d91c5ebe818b299fd0102c4"
 metafile = true
 
 [[files]]
