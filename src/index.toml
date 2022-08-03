@@ -128,6 +128,11 @@ hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
 metafile = true
 
 [[files]]
+file = "mods/nmuk.pw.toml"
+hash = "505eb4c112dc747ce878e9de79c911a5ef7f5a632d91c5ebe818b299fd0102c4"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
 metafile = true
