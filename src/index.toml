@@ -22,11 +22,11 @@ hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
-hash = "889f67b783a74fcdbedd46de3bc40abf6f846816d8fbe1febf52fc4a2e52f9a3"
+hash = "53a31833e406bc4f6068fa900ce392d9131b8f9682f4d3ca1f3cd71875a15ee4"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ce3dfc320448ec0344d3b3b6dd5283464678fb194787911c7857c5ff8b748fd5"
+hash = "46191331843da31ebedcade306276a97361a58aa12474400ac4790f73f6256e9"
 
 [[files]]
 file = "icon.png"
