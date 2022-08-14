@@ -10,3 +10,6 @@ renderClouds:"true"
 mipmapLevels:2
 key_Switch Bedrodium work:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
