@@ -1,1 +1,12 @@
-{"enabled":true,"indicatorStyle":2,"indicatorVertical":"|","indicatorHorizontal":"—"}
+{
+  "enabled": true,
+  "mode": 1,
+  "indicatorStyle": 2,
+  "indicatorVertical": "|",
+  "indicatorHorizontal": "—",
+  "indicatorColor": -1,
+  "indicatorColorObstructed": -43691,
+  "indicatorAnimationDuration": 0,
+  "indicatorAnimationInterpolation": 0,
+  "indicatorAnimationFadeInterpolation": 0
+}
