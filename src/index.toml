@@ -41,10 +41,6 @@ file = "config/yosbr/options.txt"
 hash = "fd773d54d3fc067f3ec78f54575a0d1fa141dcd6f8ff3d235529dc5853d3c019"
 
 [[files]]
-file = "icon.png"
-hash = "5ffef582fe0d54c1a970f80216b3173a3f43c38777a925627425f0252940c807"
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
