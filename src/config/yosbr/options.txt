@@ -1,0 +1,14 @@
+version:3105
+enableVsync:true
+entityShadows:false
+renderDistance:12
+simulationDistance:5
+graphicsMode:0
+ao:2
+biomeBlendRadius:2
+renderClouds:"true"
+mipmapLevels:2
+key_key.entityculling.toggle:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown

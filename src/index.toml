@@ -1,33 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/appleskin.json5"
+file = "config/yosbr/config/appleskin.json5"
 hash = "f93e9d09977b68e8a0ee9d9aa5161c25f0e77ba9d26b4c7dc87921eed898e39d"
 
 [[files]]
-file = "config/entityculling.json"
+file = "config/yosbr/config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 
 [[files]]
-file = "config/tr7zwDonorSettings.json"
+file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "889f67b783a74fcdbedd46de3bc40abf6f846816d8fbe1febf52fc4a2e52f9a3"
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "592be0c9b08f0c336a8a92aaccc73b79c76b02e75b6f11c3e9348b98e53244a8"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "2f4418600a0c2514cc5395d4623475a1c2bf0c3f6f5448c190df2594f1b310c6"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "e68dff5f6769b1e7f4ba44bcd421ef986fa1183e307d65366d515cf49aa5626f"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "ca6eae05471af3764022813a0a004c5fe1eff1fa3e6c7a948755cfdba9edfa7d"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "93cbcab53ac3bafe7d8cbabe043a132af28b5e208383f52237e51a922e2c890e"
-metafile = true
-
-[[files]]
-file = "mods/bedrodium.pw.toml"
-hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
 metafile = true
 
 [[files]]
@@ -53,11 +62,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c60a5d573f70afadc214395c106ad52456e507b8a873c16e6d0f5083fb0e8529"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "3d6b9e75d56542b27c55befcf73c56757fb6198cdb598a69b996e1981234983f"
 metafile = true
 
 [[files]]
@@ -91,8 +95,18 @@ hash = "85a872e9757226eb2a15bea121651b8ffc3eeff3de0d22504bbdf0fa0c9ce3c8"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a2eecc29a20e566595d9c6aab08708a3e1b27dc8f44f310c2586f988fc386511"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "315e948af1e50ca8efdecfe5e5d3fab91f59cf9dc99ef3f825af6c861ffdedb4"
+hash = "61c3bc69fbfaa6ebf219a5ab6cb8fa070af7e4105af7bb688e80300223e46552"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a3e393879ebe676186ca13b09d02fbaf3ea8683227e2464d15dce4a977a4f2ec"
 metafile = true
 
 [[files]]
@@ -106,5 +120,6 @@ hash = "677cc80d47b051565b0e7fe7b0c0b599fd30eb52df0951c8995da1720c2e3342"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "ce3dfc320448ec0344d3b3b6dd5283464678fb194787911c7857c5ff8b748fd5"
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
