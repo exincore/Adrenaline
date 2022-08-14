@@ -38,7 +38,7 @@ hash = "592be0c9b08f0c336a8a92aaccc73b79c76b02e75b6f11c3e9348b98e53244a8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fd773d54d3fc067f3ec78f54575a0d1fa141dcd6f8ff3d235529dc5853d3c019"
+hash = "2f4418600a0c2514cc5395d4623475a1c2bf0c3f6f5448c190df2594f1b310c6"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
