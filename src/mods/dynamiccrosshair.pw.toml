@@ -1,13 +1,13 @@
 name = "Dynamic Crosshair"
-filename = "dynamiccrosshair-3.3.1+1.18.2.jar"
+filename = "dynamiccrosshair-3.5+1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/3.3.1+1.18.2/dynamiccrosshair-3.3.1%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/3.5+1.18.2/dynamiccrosshair-3.5%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "b76c27390c962ffc22faeb2452ca4b9741e8345e"
+hash = "a9982f4b93b112602f7ae4e587472378195bd8f0"
 
 [update]
 [update.modrinth]
 mod-id = "ZcR9weSm"
-version = "JZoNSBuy"
+version = "6x22u0T1"
