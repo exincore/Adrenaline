@@ -21,6 +21,10 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "82f95f1d6b1678ca43dec0f71359fc9be92663a61a1fdea3dec6e87400fd2546"
 
 [[files]]
+file = "config/yosbr/config/reacharound.json"
+hash = "ea48e995af2a66117c68bcfe5eca1090b9745476efa60076f5369b83053a1a34"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 
@@ -148,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "6973dccefd1d685a8626afdc1cd94d0d8e70874f28a23f97b2e8670556ebc795"
 metafile = true
 
 [[files]]
