@@ -74,7 +74,7 @@ hash = "6543f77e23c47ec83519e6162db1b7e269fd59c610271b17abcdc3a3438d9c8d"
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "68c17672bedcc8b65352d63b1bbff131581be1f007c15e621adda9fedcb09fd8"
+hash = "050a201e3963eba55955822a321cecf273b2b2fd529098fdf8062c549eedfb0f"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "0bcd196807d02109a7a3e20ed9ccd387ba7da1e39380181da5dda0e05806c835"
+hash = "60fba0eaa876b73715ca132ba34136ae587d417c6cb93a48b6320de3900d3869"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/nmuk.pw.toml"
-hash = "8bf12797ce972a3678ea79ba83002fae0318fc308f0440f98a39edb030d04e23"
+hash = "affee19f4beb77ecc01cc5219b03c225bed5836c83c6569ef39022b09924b58b"
 metafile = true
 
 [[files]]
@@ -159,17 +159,17 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "6875e0a4bb69183f97d99b9518f640f8984806a1bfb97f3685b2f0d7c4e3c8f8"
+hash = "61a8de96e6a2ad60fbca7ebd0a59725fc5edce16741c8c11288bb7476e92da6d"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "24f11fa273c9e8d1a2b3a7b14ecc448e01bfdc97cf8eeb23fe465b9989ba5ef4"
+hash = "82bfc54f0259e74515d892ec18de6623a4460fdb6ddd43bc21c477a83b587fab"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "299b44f1dff9a32cd1e84c859c2e2bd19024039d47f613691f2db098a37c81b5"
+hash = "dd8eaec1e0c6f0c26b2d6fee979bf536a823905f70e2e04bd6c6b5a7065d32d4"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "f234a8e383d2145966b28900ca77012c1fe916e4c599c65a7f0f68acd4efbca1"
+hash = "57a8156ca507aef595456aede3dc9f8ad5b9e9e835900c22f9817b79be1202e8"
 metafile = true
 
 [[files]]
