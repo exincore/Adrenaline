@@ -1,0 +1,13 @@
+name = "Noradrenaline"
+author = "exincore"
+version = "1.4.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "31192507d8b84d63e5b363afbdd861e9b3e50bc4db69cc910a181c717b5a8e78"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.1"
