@@ -1,0 +1,13 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-6.2.2+1.19.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZcR9weSm/versions/dHnDtwk3/dynamiccrosshair-6.2.2%2B1.19.4-fabric.jar"
+hash-format = "sha1"
+hash = "d7cb0257d233b703232634b9659b5712d2a019af"
+
+[update]
+[update.modrinth]
+mod-id = "ZcR9weSm"
+version = "dHnDtwk3"
