@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "f93e9d09977b68e8a0ee9d9aa5161c25f0e77ba9d26b4c7dc87921eed898e39d"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "cdf61af100d8a29e9bbf26cc1b7ad8ae29c82357831705a97bb1dffa8ab386fa"
+
+[[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "7451a58d95ca9a6aea0511244a96b4b026d309a5d726da84bccc5e6a0c363302"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -29,8 +37,20 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "9b90d06a1bf4b990c9b4396448435f9729da53501c487865ede596e8307356c8"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "82f95f1d6b1678ca43dec0f71359fc9be92663a61a1fdea3dec6e87400fd2546"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
+
+[[files]]
+file = "config/yosbr/config/reacharound.json"
+hash = "ea48e995af2a66117c68bcfe5eca1090b9745476efa60076f5369b83053a1a34"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
@@ -45,12 +65,31 @@ file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "592be0c9b08f0c336a8a92aaccc73b79c76b02e75b6f11c3e9348b98e53244a8"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "b422ec1b7719d71b63a149cb9caa83deb5ddeceaa3810cce0c23b6fd8f52f654"
 metafile = true
 
 [[files]]
@@ -79,6 +118,16 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
@@ -89,8 +138,23 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "3c65e87193d79b218c0636cdfeca699ad6edcdbea035abfc7ce59005f1b4fb42"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "05cb437c5cc477274060a7c0ed1a5777dab6eda4a987f2bcfb10a9f98264fc86"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
@@ -99,8 +163,28 @@ hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
+file = "mods/reacharound.pw.toml"
+hash = "afedc35545eb5be295caee5e0cac50de9941e4487a1a78d54ead98cc69110843"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "337798d0bf6473dbb69536ce0ddff4eec0cdb79c64857270162d3222e3112169"
+metafile = true
+
+[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
