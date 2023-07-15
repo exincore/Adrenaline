@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/exincore/Noradrenaline">
-    <img src="https://raw.githubusercontent.com/exincore/Noradrenaline/main/docs/images/icon.png" alt="Logo" height="90" style="border-radius: 1.25rem">
+    <img src="https://raw.githubusercontent.com/exincore/Noradrenaline/main/docs/images/icon.png" alt="Logo" height="90">
   </a>
   <br />
   <br />
