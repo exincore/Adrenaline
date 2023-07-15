@@ -1,6 +1,6 @@
 name = "Noradrenaline"
 author = "exincore"
-version = "1.5.0"
+version = "2.0.0+1.14.7-mc1.18.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
