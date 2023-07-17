@@ -1,4 +1,5 @@
 simulationDistance:5
+operatorItemsTab:true
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
