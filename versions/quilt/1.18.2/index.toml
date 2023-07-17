@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "21b5a031654cb61a3f43ea25756fe24e7a062308fb3550d20a6ec9c1a3ab88e5"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "4186195991e7a3aa5f16b802eeb329eb11723e8d57011c10270ebcaa9865a81d"
+
+[[files]]
 file = "config/yosbr/config/appleskin.json5"
 hash = "f93e9d09977b68e8a0ee9d9aa5161c25f0e77ba9d26b4c7dc87921eed898e39d"
 
@@ -10,7 +18,7 @@ hash = "cdf61af100d8a29e9bbf26cc1b7ad8ae29c82357831705a97bb1dffa8ab386fa"
 
 [[files]]
 file = "config/yosbr/config/dynamiccrosshair.json5"
-hash = "7451a58d95ca9a6aea0511244a96b4b026d309a5d726da84bccc5e6a0c363302"
+hash = "fabe7f8a26b0797901aaae8b3bc666481648b72b93c3a1ec800233b36cfc82d5"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -45,12 +53,16 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "82f95f1d6b1678ca43dec0f71359fc9be92663a61a1fdea3dec6e87400fd2546"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "752a8c8b66ce36c3443b9e29c9318f682757f66ddea2ad0bcf1c0966b40b946b"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
 
 [[files]]
 file = "config/yosbr/config/reacharound.json"
-hash = "ea48e995af2a66117c68bcfe5eca1090b9745476efa60076f5369b83053a1a34"
+hash = "577f9b0119f3d7c544010d5aeda5f3666f70369afead8f44facdad5770056a10"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
@@ -70,7 +82,7 @@ hash = "592be0c9b08f0c336a8a92aaccc73b79c76b02e75b6f11c3e9348b98e53244a8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6543f77e23c47ec83519e6162db1b7e269fd59c610271b17abcdc3a3438d9c8d"
+hash = "f1f8c12ca9188e0eccadf5a5d32702c7dfd9fa496f07a7033de7fda19e648777"
 
 [[files]]
 file = "mods/amecs.pw.toml"
@@ -143,6 +155,11 @@ hash = "d9d63490b6153909c90f7af4be7adb89fc3532a15c913ec037fd46c4699456bb"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
@@ -169,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "dd8eaec1e0c6f0c26b2d6fee979bf536a823905f70e2e04bd6c6b5a7065d32d4"
+hash = "352e7ff4f03f048ac31528b9ad3e32be8c606222bd332708e918174280a190a3"
 metafile = true
 
 [[files]]
