@@ -7,10 +7,6 @@
   <p align="center">
     Subtle quality-of-life modpack forked from <a href="https://github.com/intergrav/Adrenaline">Adrenaline</a>, a performance modpack. Noradrenaline is designed to stay nearly indistinguishable from vanilla.
     <br />
-    <a href="https://github.com/intergrav/Adrenaline/wiki">Explore the wiki</a>
-    ·
-    <a href="https://www.youtube.com/watch?v=xiZOyZ-sblw">View Demo</a>
-    ·
     <a href="https://github.com/exincore/Nordrenaline/issues">Report Bugs</a>
     ·
     <a href="https://github.com/exincore/Noradrenaline/issues">Request Features</a>
