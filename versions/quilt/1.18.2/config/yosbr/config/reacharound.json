@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "mode": 1,
+  "mode": 0,
   "indicatorStyle": 2,
   "indicatorVertical": "|",
   "indicatorHorizontal": "—",
