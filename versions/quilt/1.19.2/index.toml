@@ -18,7 +18,7 @@ hash = "cdf61af100d8a29e9bbf26cc1b7ad8ae29c82357831705a97bb1dffa8ab386fa"
 
 [[files]]
 file = "config/yosbr/config/dynamiccrosshair.json5"
-hash = "fabe7f8a26b0797901aaae8b3bc666481648b72b93c3a1ec800233b36cfc82d5"
+hash = "03475a65cc94095ddd4da3ba19968d0f9bb4e3c5bc4b96e8a8a03c59002b70da"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
