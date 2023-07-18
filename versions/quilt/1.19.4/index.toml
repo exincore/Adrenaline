@@ -121,12 +121,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6585633505c5368a6d1b80f153a983eac5570eca3a9d6522e5bf3cc4ed9a6e21"
+hash = "a2a3e660db0a9d60a7d635230007c3a91d830b1337488a01a709a1e065a218b1"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
+hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
 metafile = true
 
 [[files]]
