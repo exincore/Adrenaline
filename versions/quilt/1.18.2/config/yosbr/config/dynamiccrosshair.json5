@@ -37,7 +37,7 @@
 			}
 		},
 		"onEntity": {
-			"style": "Cross",
+			"style": "DiagonalCross",
 			"color": {
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,
