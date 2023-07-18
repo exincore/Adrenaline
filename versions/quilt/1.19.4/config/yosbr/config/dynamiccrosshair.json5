@@ -106,9 +106,9 @@
     }
   },
   "enableTweaks": false,
-  "additionalTools": [],
-  "additionalMeleeWeapons": [],
-  "additionalRangedWeapons": [],
-  "additionalThrowables": [],
-  "additionalUsableItems": []
+  "additionalTools": "",
+  "additionalMeleeWeapons": "",
+  "additionalRangedWeapons": "",
+  "additionalThrowables": "",
+  "additionalUsableItems": ""
 }
